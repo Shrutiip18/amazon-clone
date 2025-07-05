@@ -34,4 +34,19 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
 
+## Tech Stack
+HTML
+CSS
+JavaScript
+ReactJS
+Material UI
+Firebase Database
+FirebaseAuthentication
+React Context API
+
+## Features:
+1. User Authentication
+2. Product Browsing
+3. Firebase Integration
+4. Responsive Design
 
